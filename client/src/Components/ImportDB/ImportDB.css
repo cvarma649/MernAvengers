@@ -1,0 +1,47 @@
+.table tr th {
+  padding-top: 1.5vh;
+  padding-bottom: 1.5vh;
+  padding-right: 9.8vw;
+  font-family: "Raleway", sans-serif;
+  font-size: 2.5vh;
+  font-weight: 500;
+  color: rgb(58, 58, 58);
+  text-align: center;
+}
+
+.table tr td {
+  padding-top: 1.5vh;
+  padding-bottom: 1.5vh;
+  padding-right: 9.8vw;
+  align-self: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 2vh;
+  font-weight: bold;
+  text-align: center;
+}
+
+.table_container {
+  margin: 3vh auto;
+  margin-left: 22vw;
+  width: 75vw;
+}
+.table_container h2 {
+  padding-left: 2vw;
+  font-size: 2vw;
+}
+
+.options {
+  max-width: 11vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dbConnectForm .headersOrNot {
+  margin: unset;
+  margin-right: 60vw;
+  margin-bottom: 1vh;
+}
+
+.dbConnectForm button:focus {
+  outline-style: none;
+}

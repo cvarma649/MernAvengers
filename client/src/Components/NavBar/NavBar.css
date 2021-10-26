@@ -1,0 +1,16 @@
+
+.nav{
+    background-color: #589636;
+    height: 10vh;
+    width:100vw;
+    position: relative;
+    z-index: 101;
+}
+
+.nav h3{
+  padding-top: 2.5vh;
+  padding-left:2vw ;
+    color:honeydew;
+    font-weight: 500;
+    font-size: 4vh;
+}
